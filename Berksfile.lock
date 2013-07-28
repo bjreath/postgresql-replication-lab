@@ -1,0 +1,8 @@
+cookbook 'postgresql', :locked_version => '3.0.0'
+cookbook 'database', :locked_version => '1.4.0'
+cookbook 'apt', :locked_version => '2.0.0'
+cookbook 'build-essential', :locked_version => '1.4.0'
+cookbook 'openssl', :locked_version => '1.0.2'
+cookbook 'mysql', :locked_version => '3.0.0'
+cookbook 'aws', :locked_version => '0.101.0'
+cookbook 'xfs', :locked_version => '1.1.0'
